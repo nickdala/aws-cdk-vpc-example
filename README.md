@@ -1,6 +1,8 @@
 # AWS Cloud Development Kit (CDK) Example to Deploy EC2 and VPC Resources
 
-This example demonstrates how to use the [AWS CDK](https://aws.amazon.com/cdk) to deploy a VPC with subnets, security groups and EC2 instances.
+This example demonstrates how to use the [AWS CDK](https://aws.amazon.com/cdk) to deploy a VPC with subnets, security groups and EC2 instances.  We will be building the following.
+
+![VPC-EC2-RDS](./img/VPC-EC2-RDS.png)
 
 ## Prerequisites
 
