@@ -73,6 +73,12 @@ cdk deploy
 * `cdk diff`        compare deployed stack with current state
 * `cdk synth`       emits the synthesized CloudFormation template
 
+## Cleanup
+
+```sh
+cdk destroy
+```
+
 ## Accompanying blog post
 
 <https://www.nickthecloudguy.com>
