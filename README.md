@@ -81,4 +81,4 @@ cdk destroy
 
 ## Accompanying blog post
 
-<https://www.nickthecloudguy.com>
+<https://www.nickthecloudguy.com/aws-cdk-vpc/>
